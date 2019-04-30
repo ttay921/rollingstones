@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rollingstones/static/css/main.584f321a.chunk.css",
+    "main.js": "/rollingstones/static/js/main.999161c2.chunk.js",
+    "main.js.map": "/rollingstones/static/js/main.999161c2.chunk.js.map",
+    "runtime~main.js": "/rollingstones/static/js/runtime~main.8a9dda7f.js",
+    "runtime~main.js.map": "/rollingstones/static/js/runtime~main.8a9dda7f.js.map",
+    "static/css/2.f283dd5a.chunk.css": "/rollingstones/static/css/2.f283dd5a.chunk.css",
+    "static/js/2.ef124c16.chunk.js": "/rollingstones/static/js/2.ef124c16.chunk.js",
+    "static/js/2.ef124c16.chunk.js.map": "/rollingstones/static/js/2.ef124c16.chunk.js.map",
+    "index.html": "/rollingstones/index.html",
+    "precache-manifest.43144ddaeedf9ea45fbe0e1f2ded0300.js": "/rollingstones/precache-manifest.43144ddaeedf9ea45fbe0e1f2ded0300.js",
+    "service-worker.js": "/rollingstones/service-worker.js",
+    "static/css/2.f283dd5a.chunk.css.map": "/rollingstones/static/css/2.f283dd5a.chunk.css.map",
+    "static/css/main.584f321a.chunk.css.map": "/rollingstones/static/css/main.584f321a.chunk.css.map"
+  }
+}
